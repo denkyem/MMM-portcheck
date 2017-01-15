@@ -2,6 +2,10 @@
   "name": "MMM-portcheck",
   "version": "1.0.0",
   "description": "\u0016Port Checker Module for MagicMirror2",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/denkyem/MMM-portcheck.git"
+  },
   
   "keywords": [
     "MagicMirror",
