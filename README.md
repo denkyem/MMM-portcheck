@@ -39,7 +39,7 @@ Based on MMM-Ping(https://github.com/fewieden/MMM-ping) by fewieden
 | --- | --- | --- |
 | `colored` | false | show badge in color or not |
 | `display` | 'both' | what should be displayed 'online', 'offline' or 'both' |
-| `hosts` | [['www.github.com','443','GIT'],['magicmirror.builders','443','Magic Mirror']] | ['<hostname>','<port>','<name>'] |
+| `hosts` | [['www.github.com','443','GIT'],['magicmirror.builders','443','Magic Mirror']] | ['hostname','port','name'] |
 | `updateInterval` | 5 | how often the module should ping the hosts in minutes |
 | `font` | 'medium' | font size 'xsmall', 'small', 'medium', 'large' or 'xlarge' |
 | `alert` | true | show an alert message when at least one host don't response
