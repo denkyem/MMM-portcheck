@@ -1,0 +1,17 @@
+{
+  "name": "MMM-portcheck",
+  "version": "1.0.0",
+  "description": "\u0016Port Checker Module for MagicMirror2",
+  
+  "keywords": [
+    "MagicMirror",
+    "port checker",
+    "online",
+    "offline"
+  ],
+  "author": "denkyem",
+  "license": "MIT",
+  "dependencies": {
+    "tcp-ping": "v0.1.1"
+  }
+}
